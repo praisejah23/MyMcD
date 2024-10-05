@@ -1,0 +1,299 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+body{
+    overflow-x: hidden;
+}
+.navigation{
+    margin: 5px 100px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+.navlogo{
+    width: 8%;
+    height: 100%;
+}
+.nav{
+    margin-top: 25px;
+    margin-right: 20px;
+    width: 85%;
+    height: 100%;
+    display: flex;
+}
+.nav-top-left{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-top-right{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 260px;
+}
+.slim select{
+    border: none;
+}
+
+ li{
+    list-style-type: none;
+ }
+
+ .navigation-2{
+    margin: 5px 100px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;  
+
+}
+.nav-bottom{
+    width: 65%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 180px;
+    margin-top: 10px;
+}
+
+
+
+.reece{
+    height: 200px;
+    margin: 5px 100px;
+    font-size: x-large;   
+}
+.reece h1{
+    padding-left: 300px;
+    padding-bottom: 20px;
+}
+#p1{
+    font-size: x-small;
+    padding: 40px 0px;
+}
+.reece p{
+    font-size: large;
+}
+.banner{
+    margin: 5px 100px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;}
+    
+#img1{
+    width: 72%;
+    height: 100%;
+}
+.banner-text{
+    width: 25%;
+    height: 100%;
+}
+.banner-text h2{
+    font-size: x-large;
+}
+button{
+    padding: 12px 20px;
+    background-color: #ffbc0d;
+    border: none;
+    border-radius: 4px;
+}
+.text{
+    margin: 50px 100px;
+    margin-top: 100px;
+    height: 100px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.text p{
+    font-weight: 100;
+    font-size: large;
+}
+.container{
+    margin: 5px 100px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.container1{
+    width: 32%;
+    height: 100%;
+
+}
+#p2{
+    font-size: x-small;
+    padding: 30px 0px;
+}
+#img2{
+    width: 100%;
+    height: 100%;
+}
+.text-2{
+margin: 50px 100px;
+height: 350px;
+display: flex;
+justify-content: space-between;
+}
+.first-text{
+    width: 32%;
+    height: 100%;
+}
+.first-text h2{
+    font-size: xx-large;
+    font-weight: lighter;
+}
+.more-text{
+    height:100px ;
+    margin: 25px 100px;
+}
+.more-text h2{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.james{
+    margin: 5px 100px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+.james1{
+    width: 48%;
+    height: 100%;
+    
+}
+.text-3{
+    margin: 5px 100px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.second-text{
+    width: 48%;
+    height: 100%;
+
+}
+.second-text h2{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.felix{
+    margin: 5px 100px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 200px;
+}
+.felix1{
+    width: 48%;
+    height: 100%;
+}
+.test-4{
+    margin: 5px 100px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.third-text{
+    width: 48%;
+    height: 100%;
+
+}
+.third-text h2{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.faq{
+    margin: 0px 100px;
+    margin-top: 150px;
+    line-height: 1.4;
+    font-size:  large;
+    
+}
+.faq h2{
+    font-size: xx-large;
+    font-weight: lighter;
+}
+.faq h3{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.main{
+    margin: 0px 100px;
+    margin-top: 150px;
+    display: flex;
+}
+.main p{
+    font-weight: bold;
+}
+.about{
+   width: 25%;
+   list-style-type: none;
+   font-size: large;
+   line-height: 1.5
+}
+.faq li{
+margin: 0px 100px;
+}
+.link{
+    margin: 0px 100px;
+    margin-top: 50px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.link1{
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.link2{
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px;
+}
+hr{
+    margin: 5px 100px;   
+}
+.footer{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 100px;
+    
+}
+.footerlist{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.footerimage{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#A{
+    width: 20px;
+    height: 50%;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.privacy{
+    width: 23%;
+    height: 100%;
+    display: flex;
+}
+.lastfooter{
+    margin: 25px 100px;
+    height: 25px;
+}
